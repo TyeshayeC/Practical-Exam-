@@ -39,6 +39,13 @@ In this Tutorial, will show a breif outline of how to create a Resource step by 
 
 
 
+![image](https://github.com/TyeshayeC/Practical-Exam-/assets/170483282/53b6ba3e-9087-472a-be3c-37a8a711199a)
+
+Once you decide which resource you would like to create you will click on the 'Create" Tab.
+
+
+
+
 
 
 
