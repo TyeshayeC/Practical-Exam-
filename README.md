@@ -30,6 +30,19 @@ In this Tutorial, will show a breif outline of how to create a Resource step by 
 
   <h2>Installation Steps</h2>
 
+![image](https://github.com/TyeshayeC/Practical-Exam-/assets/170483282/d41b39b9-78f4-420e-9aae-30fca648f5b5)
+
+ First Step After creating your, Azure Portal account. You will then go to the top left corner and click on "Create a Resource" which will 
+ then take you to the page where you see different options to exactly choose the specific, Resource you would like to create. In This Tutorial will show how to create A Vitural Machine.
+ Examples: Virtual Machines(VMS), Databases, Storage Accounts and plenty more. Scroll down to STEP into part 2
+
+
+
+
+
+
+
+
 <p>
 <img![image](https://github.com/TyeshayeC/osticket-prereqs/assets/170483282/e8c492ad-8b12-4644-95d6-2a18d9fba7eb)
 />
