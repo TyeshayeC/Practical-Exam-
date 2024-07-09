@@ -45,6 +45,21 @@ Once you decide which resource you would like to create you will click on the 'C
 
 
 
+![image](https://github.com/TyeshayeC/Practical-Exam-/assets/170483282/71190890-e576-4e97-bced-73d871202f97)
+
+On This Section you will then create the 'Resource Group Name" and then the region you are located in or how you would like to be 'shown" in which region 
+
+
+
+
+
+![image](https://github.com/TyeshayeC/Practical-Exam-/assets/170483282/7883a81d-5db6-41b7-b010-294ca8e920fb)
+
+Again, for this Specific Tutorial, we will be creating A Virutal Machine. Make sure to fill out all the areas that are marked with the astericks. So, once you get to this step
+you'll then click on the drop down the choose the "resource group" that was created. In this case for us will be the "RG-LAB01" Shown in step 3
+
+
+
 
 
 
