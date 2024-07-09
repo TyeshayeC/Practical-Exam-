@@ -89,6 +89,10 @@ STEP 6 after the networking section, you'll then click review and create the vir
 
 
 
+
+
+
+
 <p>
 <img![image](https://github.com/TyeshayeC/osticket-prereqs/assets/170483282/e8c492ad-8b12-4644-95d6-2a18d9fba7eb)
 />
