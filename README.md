@@ -75,7 +75,7 @@ So, For the networking section normally where you see the organge circle. the dr
 
 ![image](https://github.com/TyeshayeC/Practical-Exam-/assets/170483282/a68b74a3-45b2-408e-951b-fe997671ccea)
 
-STEP 6 after the networking section, you'll the review and create the virual machine, it'll show "validation passed" which lets you know the VM has been created.
+STEP 6 after the networking section, you'll then click review and create the virual machine, it'll show "validation passed" which lets you know the VM has been created.
 
 
 
